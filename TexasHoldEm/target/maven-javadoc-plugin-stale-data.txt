@@ -1,0 +1,42 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+--no-fonts
+-encoding
+'UTF-8'
+-protected
+--release
+25
+-sourcepath
+'D:/Users/Brian Armas/Documents/NetBeansProjects/TexasHoldEm/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2026. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'D:/Users/Brian Armas/Documents/NetBeansProjects/TexasHoldEm/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'TexasHoldEm 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'TexasHoldEm 1.0-SNAPSHOT API'
+com.mycompany.texasholdem
+D:\Users\Brian Armas\Documents\NetBeansProjects\TexasHoldEm\src\main\java = 1776237841352
+D:\Users\Brian Armas\Documents\NetBeansProjects\TexasHoldEm\target\reports\apidocs\allclasses-index.html = 1776412489651
+D:\Users\Brian Armas\Documents\NetBeansProjects\TexasHoldEm\target\reports\apidocs\allpackages-index.html = 1776412489655
+D:\Users\Brian Armas\Documents\NetBeansProjects\TexasHoldEm\target\reports\apidocs\element-list = 1776412489575
+D:\Users\Brian Armas\Documents\NetBeansProjects\TexasHoldEm\target\reports\apidocs\help-doc.html = 1776412489695
+D:\Users\Brian Armas\Documents\NetBeansProjects\TexasHoldEm\target\reports\apidocs\index-all.html = 1776412489683
+D:\Users\Brian Armas\Documents\NetBeansProjects\TexasHoldEm\target\reports\apidocs\index.html = 1776412489690
+D:\Users\Brian Armas\Documents\NetBeansProjects\TexasHoldEm\target\reports\apidocs\member-search-index.js = 1776412489662
+D:\Users\Brian Armas\Documents\NetBeansProjects\TexasHoldEm\target\reports\apidocs\module-search-index.js = 1776412489657
+D:\Users\Brian Armas\Documents\NetBeansProjects\TexasHoldEm\target\reports\apidocs\overview-tree.html = 1776412489633
+D:\Users\Brian Armas\Documents\NetBeansProjects\TexasHoldEm\target\reports\apidocs\package-search-index.js = 1776412489658
+D:\Users\Brian Armas\Documents\NetBeansProjects\TexasHoldEm\target\reports\apidocs\search.html = 1776412489687
+D:\Users\Brian Armas\Documents\NetBeansProjects\TexasHoldEm\target\reports\apidocs\tag-search-index.js = 1776412489664
+D:\Users\Brian Armas\Documents\NetBeansProjects\TexasHoldEm\target\reports\apidocs\type-search-index.js = 1776412489660
